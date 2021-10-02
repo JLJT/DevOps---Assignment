@@ -1,4 +1,4 @@
-name: tg-notify
+name: telegram_notification
 
 on: [push, pull_request]
   
