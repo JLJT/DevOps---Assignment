@@ -21,7 +21,7 @@ Telegram Notification received from Github
 
 Telegram Notification received from Github
 
-![image](https://user-images.githubusercontent.com/89763342/135813252-e9de0c6b-1084-4bb0-b882-704c7c66938d.png)
+![image](https://user-images.githubusercontent.com/89763342/135848059-30c099e5-ffd4-43db-8b0f-53b4c78501d2.png)
 
 
 **Step 2:** Merge to MainBranch
