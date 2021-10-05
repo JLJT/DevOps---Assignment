@@ -4,8 +4,6 @@ DevOps "Show and Tell" Assignment - Triggering a workflow in Github to notify pr
 
 Workflow:
 
-Test
-
 **Step 1:** The HTML/CSS/JS Script files contain a portion of the front-end coding for the NUS Money App. The files are pushed from VSS to Github for collaboration with other members.
 
 ![image](https://user-images.githubusercontent.com/89763342/135811913-1824dc19-e7d1-4202-98f5-9afaad079148.png)
